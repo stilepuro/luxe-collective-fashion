@@ -1,0 +1,4 @@
+# Aggiungi questa riga al crontab per backup automatico quotidiano
+# crontab -e
+# Backup ogni giorno alle 02:00
+0 2 * * * cd /path/to/workspace && ./automatic_backup.sh
