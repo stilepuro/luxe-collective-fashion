@@ -706,10 +706,6 @@ section {
     }
     
     /* Navigation */
-    .nav-menu {
-        display: none;
-    }
-    
     .mobile-menu-toggle {
         display: flex;
     }
