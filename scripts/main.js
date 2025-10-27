@@ -34,22 +34,51 @@ document.addEventListener('DOMContentLoaded', function() {
     const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
     const navMenu = document.getElementById('nav-menu');
     
-    mobileMenuToggle.addEventListener('click', function() {
-        navMenu.classList.toggle('active');
-        mobileMenuToggle.classList.toggle('active');
-        
-        // Animate hamburger menu
-        const spans = mobileMenuToggle.querySelectorAll('span');
-        if (mobileMenuToggle.classList.contains('active')) {
-            spans[0].style.transform = 'rotate(45deg) translate(6px, 6px)';
-            spans[1].style.opacity = '0';
-            spans[2].style.transform = 'rotate(-45deg) translate(6px, -6px)';
-        } else {
-            spans[0].style.transform = 'none';
-            spans[1].style.opacity = '1';
-            spans[2].style.transform = 'none';
-        }
-    });
+    // DEBUG: Log se gli elementi sono stati trovati
+    console.log('DEBUG: mobileMenuToggle found:', mobileMenuToggle);
+    console.log('DEBUG: navMenu found:', navMenu);
+    
+    if (mobileMenuToggle && navMenu) {
+        mobileMenuToggle.addEventListener('click', function() {
+            console.log('DEBUG: Hamburger click event fired!');
+            
+            // Log stato prima del toggle
+            console.log('DEBUG: navMenu classList before toggle:', navMenu.classList.toString());
+            console.log('DEBUG: mobileMenuToggle classList before toggle:', mobileMenuToggle.classList.toString());
+            
+            navMenu.classList.toggle('active');
+            mobileMenuToggle.classList.toggle('active');
+            
+            // Log stato dopo il toggle
+            console.log('DEBUG: navMenu classList after toggle:', navMenu.classList.toString());
+            console.log('DEBUG: mobileMenuToggle classList after toggle:', mobileMenuToggle.classList.toString());
+            
+            // Check se la classe active è stata applicata
+            if (navMenu.classList.contains('active')) {
+                console.log('DEBUG: navMenu has active class - should be visible now');
+            } else {
+                console.log('DEBUG: navMenu does not have active class - should be hidden');
+            }
+            
+            // Animate hamburger menu
+            const spans = mobileMenuToggle.querySelectorAll('span');
+            console.log('DEBUG: Found spans:', spans.length);
+            
+            if (mobileMenuToggle.classList.contains('active')) {
+                spans[0].style.transform = 'rotate(45deg) translate(6px, 6px)';
+                spans[1].style.opacity = '0';
+                spans[2].style.transform = 'rotate(-45deg) translate(6px, -6px)';
+                console.log('DEBUG: Applied X animation');
+            } else {
+                spans[0].style.transform = 'none';
+                spans[1].style.opacity = '1';
+                spans[2].style.transform = 'none';
+                console.log('DEBUG: Applied hamburger animation');
+            }
+        });
+    } else {
+        console.error('DEBUG: Could not find mobileMenuToggle or navMenu elements!');
+    }
     
     // Smooth scrolling for anchor links
     const anchorLinks = document.querySelectorAll('a[href^="#"]');
