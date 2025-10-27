@@ -1006,6 +1006,7 @@ a, button {
     }
     
     .nav-menu.active {
+        display: flex !important;
         transform: translateX(0);
     }
     
