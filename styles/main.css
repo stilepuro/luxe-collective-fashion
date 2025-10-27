@@ -995,13 +995,23 @@ a, button {
         justify-content: center;
         align-items: center;
         gap: 32px;
-        display: none;
+        display: none !important;
         z-index: 999;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     }
     
     .nav-menu.active {
         display: flex !important;
+    }
+    
+    .mobile-menu-toggle {
+        display: flex !important;
+        flex-direction: column;
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 8px;
+        gap: 4px;
     }
     
     .nav-link {
