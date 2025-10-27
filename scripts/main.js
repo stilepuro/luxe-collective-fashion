@@ -357,35 +357,3 @@ function debounce(func, wait) {
     };
 }
 
-// Enhanced mobile menu styles
-const mobileMenuStyles = `
-    @media (max-width: 768px) {
-        .nav-menu {
-            position: fixed;
-            top: 96px;
-            left: 0;
-            width: 100%;
-            height: calc(100vh - 96px);
-            background-color: var(--surface);
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            gap: 32px;
-            transform: translateX(-100%);
-            transition: transform 400ms cubic-bezier(0.25, 0.8, 0.25, 1);
-            z-index: 999;
-        }
-        
-        .nav-menu.active {
-            transform: translateX(0);
-        }
-        
-        .nav-link {
-            font-size: 24px;
-        }
-    }
-`;
-
-const mobileStyleSheet = document.createElement('style');
-mobileStyleSheet.textContent = mobileMenuStyles;
-document.head.appendChild(mobileStyleSheet);
