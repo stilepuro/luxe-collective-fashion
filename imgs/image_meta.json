@@ -1,0 +1,444 @@
+[
+  {
+    "query": "A stylish lifestyle fashion image for a fashion blog section",
+    "image_info": {
+      "url": "https://gracefulstory.com/wp-content/uploads/2024/09/best-minimalist-fashion-bloggers-1.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 248638,
+      "width": 1080,
+      "height": 1080,
+      "total_pixels": 1166400,
+      "basic_score": 0.9333915793026073,
+      "file_name": "elegant_woman_street_style_fashion_blog.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, depicting a stylish and elegant woman in a lifestyle fashion setting. The clarity is excellent, with sharp details and good lighting. There are no visible watermarks. The overall composition and aesthetic quality are highly professional, making it ideal for a fashion blog.",
+      "file_name": "elegant_woman_street_style_fashion_blog.jpg",
+      "caption": "An elegantly dressed woman stands on a cobblestone city street, embodying chic street style. She wears a long camel-colored wool coat over a cream turtleneck sweater and white, straight-leg pants, paired with white sneakers. Her accessories include dark sunglasses, delicate hoop earrings, and a crescent-shaped dark monogrammed shoulder bag. She holds a small white coffee cup, exuding a casual yet sophisticated urban lifestyle vibe. The backdrop features classic European-style buildings, enhancing the fashion-forward atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A stylish lifestyle fashion image for a fashion blog section",
+    "image_info": {
+      "url": "https://gracefulstory.com/wp-content/uploads/2024/10/ZEN_1258.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 787700,
+      "width": 1250,
+      "height": 1000,
+      "total_pixels": 1250000,
+      "basic_score": 0.9529261639550854,
+      "file_name": "elegant_woman_fashion_blog_lifestyle_outfit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to both the search query and prompt, showcasing an elegant and stylish woman in a lifestyle setting suitable for a fashion blog. The clarity is excellent for the subject, composition is professional, and the colors are harmonious. The artificial light effects/bokeh are a minor stylistic choice that slightly impacts naturalness but don't detract significantly from the overall quality.",
+      "file_name": "elegant_woman_fashion_blog_lifestyle_outfit.jpg",
+      "caption": "A stylish woman, dressed in a champagne-colored satin blouse and high-waisted wide-leg textured brown trousers, smiles confidently while posing in an urban architectural setting. She carries a small, embellished gold cross-body bag and wears nude heels, exuding an elegant lifestyle and fashion blogger aesthetic. The scene features soft lighting with decorative light reflections, ideal for a fashion blog.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A stylish lifestyle fashion image for a fashion blog section",
+    "image_info": {
+      "url": "https://www.musingsbymadison.com/wp-content/uploads/2021/10/img_1374_facetune_14-09-2021-15-43-22-scaled.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 621253,
+      "width": 1920,
+      "height": 2880,
+      "total_pixels": 5529600,
+      "basic_score": 0.4891761100859191,
+      "file_name": "elegant_stylish_urban_fashion_lifestyle.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 97.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "This image perfectly captures the essence of a 'fashion blog lifestyle elegant woman stylish' query. It features a well-dressed woman in a chic, elegant outfit set against a sophisticated urban backdrop. The clarity is excellent, composition is professional, and there are no intrusive watermarks, making it highly suitable for a fashion blog.",
+      "file_name": "elegant_stylish_urban_fashion_lifestyle.jpg",
+      "caption": "A stylish young woman poses elegantly on an urban street, showcasing a chic autumn outfit. She is wearing a cream-colored knit cardigan, sleek brown faux leather pants, and neutral beige loafers. A classic Gucci shoulder bag with the iconic monogram and horsebit detail is slung over her shoulder. Her long dark wavy hair complements her sophisticated look, set against a backdrop of a grand stone building and a paved sidewalk, creating a perfect lifestyle image for a fashion blog.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A stylish lifestyle fashion image for a fashion blog section",
+    "image_info": {
+      "url": "https://www.jessicawang.com/wp-content/uploads/2018/08/Monte-Carlo-Tuxedo-NotJessFashion-001.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 716544,
+      "width": 1800,
+      "height": 2400,
+      "total_pixels": 4320000,
+      "basic_score": 0.4980274580274157,
+      "file_name": "Elegant_Stylish_Woman_Luxury_Lifestyle_Fashion_Blog.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is highly relevant, perfectly depicting a stylish and elegant woman in a luxury lifestyle setting, ideal for a fashion blog. It boasts excellent clarity, no watermarks, and a professional composition with good lighting.",
+      "file_name": "Elegant_Stylish_Woman_Luxury_Lifestyle_Fashion_Blog.jpg",
+      "caption": "An elegant and stylish woman dressed in a chic black pantsuit and high heels stands confidently with her arms crossed on a red carpeted balcony. In the background, lush palm trees and ornate, grand architecture create a luxurious and sophisticated lifestyle setting, ideal for a fashion blog.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A stylish lifestyle fashion image for a fashion blog section",
+    "image_info": {
+      "url": "https://www.refinery29.com/images/8672141.jpg?format=webp&width=760&height=912&quality=85&crop=5%3A6",
+      "img_format": "WEBP",
+      "mode": "RGB",
+      "file_size": 110030,
+      "width": 760,
+      "height": 912,
+      "total_pixels": 693120,
+      "basic_score": 0.8985910754212693,
+      "file_name": "stylish-woman-patterned-dress-fashion-blog-lifestyle.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly aligns with the search query and prompt, featuring a highly stylish woman in a lifestyle setting, ideal for a fashion blog. The clarity and resolution are excellent, and there are no watermarks. The composition and candid nature contribute to its high professional quality.",
+      "file_name": "stylish-woman-patterned-dress-fashion-blog-lifestyle.jpg",
+      "caption": "A smiling woman with long, curly brown hair and dark sunglasses is captured mid-stride, showcasing a vibrant, retro-inspired patterned maxi dress or tunic shirt. The garment features a rich mix of colors including earthy browns, greens, oranges, and yellows, with distinct floral and abstract patterns. She is accessorized with layered gold necklaces, including a prominent medallion, and a striking turquoise beaded choker. In her left hand, she carries a light-colored, woven bag, contributing to the casual yet chic aesthetic. The background is softly blurred, suggesting an urban outdoor setting, capturing a moment of contemporary street style.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern stylish fashion influencer style image for blog content",
+    "image_info": {
+      "url": "https://farm5.staticflickr.com/4552/37549518525_55b8317aea_o.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 218472,
+      "width": 988,
+      "height": 1013,
+      "total_pixels": 1000844,
+      "basic_score": 0.9368298569529899,
+      "file_name": "modern_stylish_minimal_fashion_influencer_looks_blog.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image is highly relevant to the search query and prompt, showcasing three distinct modern, stylish, and minimalist fashion influencer looks. It's well-composed, clear, and professionally shot, making it perfect for blog content. No watermarks are present.",
+      "file_name": "modern_stylish_minimal_fashion_influencer_looks_blog.jpg",
+      "caption": "A stylish triptych showcasing three modern fashion influencer-style outfits. The left panel features a woman in a long black ribbed dress, white sneakers, and a black tote bag, walking on a city street. The top right panel shows a woman in a white high-neck sleeveless top, black trousers, and a large beige shoulder bag. The bottom right panel presents a woman wearing a relaxed brown wide-leg jumpsuit, a black blazer, and black loafers against a textured white wall. All models are accessorized with sunglasses, embodying a chic and contemporary minimalist aesthetic ideal for fashion blog content.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern stylish fashion influencer style image for blog content",
+    "image_info": {
+      "url": "https://www.classicspecs.com/closerlook/wp-content/uploads/2024/04/image-15.png",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 274033,
+      "width": 1440,
+      "height": 1800,
+      "total_pixels": 2592000,
+      "basic_score": 0.5795355999250486,
+      "file_name": "stylish_modern_influencer_grey_blazer_skort_outfit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly aligns with the search query and prompt, showcasing a stylish fashion influencer in a modern, minimalist outfit against an elegant architectural background. The clarity is excellent, with sharp details and no visible watermarks. The composition, lighting, and overall aesthetic are highly professional and suitable for blog content.",
+      "file_name": "stylish_modern_influencer_grey_blazer_skort_outfit.jpg",
+      "caption": "A stylish fashion influencer poses elegantly against a classical stone pillar, showcasing a chic modern outfit featuring a belted grey blazer dress or pleated skort, a crisp white collared shirt, brown framed sunglasses, a minimalist red shoulder bag, and trendy white Adidas Samba sneakers. Her sophisticated yet minimalist style is perfect for contemporary blog content, captured with excellent natural lighting in an architectural setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern stylish fashion influencer style image for blog content",
+    "image_info": {
+      "url": "https://hommes.studio/wp-content/uploads/home-of-danish-influencer-and-stylist-pernille-teisbaek-in-copenhagen-8.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 155527,
+      "width": 1280,
+      "height": 1919,
+      "total_pixels": 2456320,
+      "basic_score": 0.591582917098876,
+      "file_name": "modern_minimal_fashion_influencer_couple_interior.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, featuring a stylish couple in a modern, minimalist architectural setting. It exhibits excellent clarity, professional lighting, and a well-composed shot, making it ideal for fashion blog content. No watermarks are present.",
+      "file_name": "modern_minimal_fashion_influencer_couple_interior.jpg",
+      "caption": "A stylish couple, dressed in modern attire, poses in a brightly lit, minimalist interior featuring a striking white spiral staircase with natural wood treads. The woman wears a white blazer over a white top with light wash jeans and two-tone heels, while the man sports a white t-shirt and dark pants. The room showcases a herringbone hardwood floor, clean white walls with subtle paneling, and large windows, exuding a chic and contemporary fashion influencer aesthetic.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern stylish fashion influencer style image for blog content",
+    "image_info": {
+      "url": "https://www.classicspecs.com/closerlook/wp-content/uploads/2024/04/image-13.png",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 602142,
+      "width": 1440,
+      "height": 1796,
+      "total_pixels": 2586240,
+      "basic_score": 0.5962237193937796,
+      "file_name": "modern_stylish_fashion_influencer_tan_blazer_white_pants_street_style.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, embodying a modern, stylish, and minimalist fashion influencer aesthetic ideal for blog content. The outfit, styling, and pose are highly relevant. Clarity is excellent, with sharp focus and good resolution. There are no watermarks, and the overall composition and professional quality are outstanding.",
+      "file_name": "modern_stylish_fashion_influencer_tan_blazer_white_pants_street_style.jpg",
+      "caption": "A chic fashion influencer poses confidently on an urban street, showcasing a modern and minimalist style. She is dressed in a structured tan oversized blazer over a black top, paired with high-waisted white wide-leg trousers and a black belt. Her accessories include sleek black sunglasses and two-tone (beige and black) block-heel shoes. She carries a black textured handbag, and her long blonde hair flows casually. The background features classical architectural elements, including large stone pillars and an ornate black iron gate.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A modern stylish fashion influencer style image for blog content",
+    "image_info": {
+      "url": "https://4.bp.blogspot.com/--H646dtWJi0/WgxKvsICR_I/AAAAAAAAXzk/EmFwzcDSe9obYV82t_GWMu6dgkPEXrwCACLcBGAs/s1600/9%2BMinimalist%2BStyle%2BFashion%2BBloggers%2BYou%2BShould%2BKnow%2B001.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 132081,
+      "width": 900,
+      "height": 694,
+      "total_pixels": 624600,
+      "basic_score": 0.8910864704175682,
+      "file_name": "fashion_influencer_modern_stylish_minimal_outfits.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly aligns with the search query and prompt, showcasing three distinct yet cohesive modern, stylish, and largely minimal outfits that are characteristic of fashion influencer content for a blog. The image is crisp, well-composed, and free of watermarks.",
+      "file_name": "fashion_influencer_modern_stylish_minimal_outfits.jpg",
+      "caption": "A triptych-style image showcasing three different women modeling modern and stylish outfits. The left features a woman in a black ribbed midi dress, white sneakers, and a black tote bag. The center shows a woman in an oversized camel cowl-neck sweater, black mini skirt, leggings, and brown ankle boots. The right displays a woman in a white ruffled-sleeve jumpsuit, nude high-heeled sandals, and a small nude cross-body bag. All looks are chic, contemporary, and embody a fashion influencer aesthetic, ideal for lifestyle or fashion blog content.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A grid layout showing luxury fashion products with elegant presentation",
+    "image_info": {
+      "url": "https://designshack.net/wp-content/uploads/instagram-grid-template.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 76322,
+      "width": 715,
+      "height": 477,
+      "total_pixels": 341055,
+      "basic_score": 0.8057082874199119,
+      "file_name": "elegant_fashion_grid_layout_template_yellow.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 75.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image clearly depicts an elegant grid layout used for fashion content. While it excels in 'grid layout' and 'elegant presentation', the 'luxury products' aspect is not strongly conveyed, as the fashion shown appears more generally stylish than explicitly high-end luxury. The image is very clear and free of any watermarks.",
+      "file_name": "elegant_fashion_grid_layout_template_yellow.jpg",
+      "caption": "A stylish social media grid layout template predominantly featuring a vibrant yellow color scheme, designed for fashion content. It showcases various fashion outfits and models, with sections for text like 'My New Fashion Posting', 'The Latest Style', and 'An exciting vacation', complete with subtle graphic elements and placeholders for website and date.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A grid layout showing luxury fashion products with elegant presentation",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/44127240/file/original-0920aa7c0c7c85ec5defdd019de15ef6.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 163647,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8329225673152962,
+      "file_name": "luxury_fashion_ecommerce_grid_givenchy.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is a perfect match for the search query and prompt, showcasing luxury fashion products from Givenchy in a clean and elegant grid layout. The presentation is professional, clear, and free of distracting watermarks.",
+      "file_name": "luxury_fashion_ecommerce_grid_givenchy.jpg",
+      "caption": "A clean and elegant e-commerce website product grid displaying luxury fashion outerwear from Givenchy. The layout features various jackets and a windbreaker, each presented on a minimalist white background with product names and prices. The design emphasizes sophistication and high-end fashion, typical of a luxury brand's online presence.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A grid layout showing luxury fashion products with elegant presentation",
+    "image_info": {
+      "url": "https://cdn.dribbble.com/userupload/44127527/file/original-97ba2ca57ad27eb9466f6f31f3cdfd48.png?resize=752x&vertical=center",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 155219,
+      "width": 752,
+      "height": 564,
+      "total_pixels": 424128,
+      "basic_score": 0.8319677552214668,
+      "file_name": "luxury_fashion_khaite_product_grid_elegant_website.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt, showcasing luxury fashion products in an elegant grid layout. The clarity is excellent, with sharp details and legible text, and there are no intrusive watermarks. The overall presentation is professional and high-quality, reflecting a sophisticated e-commerce experience.",
+      "file_name": "luxury_fashion_khaite_product_grid_elegant_website.jpg",
+      "caption": "A clean and elegant grid layout on the KHAITE e-commerce website showcases luxury fashion items for the Resort 2025 collection. Featured products include a Dailman Jacket, Tonni Blazer, Eva Mid Calf Boot, and Sybil Mary Jane Flat, all presented with minimalist styling against white backgrounds, emphasizing their sophisticated design and quality. Product names and prices are clearly visible, set against a dark grey and white interface.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A hero banner image for a luxury fashion marketplace with elegant minimal design",
+    "image_info": {
+      "url": "https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEAF0XmkzgQA%2F1%2F0%2F1600w-O7EU5YM_MGU.jpg/mockuptemplateid:E3Kn_CfJX/size:L?csig=AAAAAAAAAAAAAAAAAAAAANCbEqwP0OZJhCrcvQHrzypikhNutGOttbsIqZvxQ04S&exp=1761649389&osig=AAAAAAAAAAAAAAAAAAAAAHHD18LjQpVQw3NReXYsyGXOCgFaV0gfvwcBW0rYHKnp&seoslug=gray-minimalist-new-collection-banner&signer=marketplace-rpc",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 22951,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8805177105081586,
+      "file_name": "luxury_fashion_marketplace_hero_banner_new_collection_minimal_elegant.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly aligns with the search query for a 'luxury fashion marketplace hero banner with minimal elegant design.' The banner format, 'New Collection' text, and stylish models convey fashion. The predominantly white and neutral color palette, clean typography, and subtle arch motifs create a strong minimal and elegant aesthetic. Clarity is excellent, and there are no intrusive watermarks.",
+      "file_name": "luxury_fashion_marketplace_hero_banner_new_collection_minimal_elegant.jpg",
+      "caption": "A minimalist and elegant hero banner advertising a 'New Collection' for a luxury fashion marketplace. The banner features five models within arched white frames, showcasing diverse fashion styles ranging from casual chic to sophisticated outerwear. The color palette is predominantly white and neutral, with black text for 'New Collection' and website/social media details (www.reallygreatsite.com, @reallygreatsite). Subtle shadows add depth to the modern design, making it ideal for a high-end fashion brand's website.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A hero banner image for a luxury fashion marketplace with elegant minimal design",
+    "image_info": {
+      "url": "https://media.canva.com/v2/mockup-template-rasterize/image0:s3%3A%2F%2Ftemplate.canva.com%2FEAGBg6tknjQ%2F1%2F0%2F1600w-hKmX7d0XwaY.jpg/mockuptemplateid:E3Kn_CfJX/size:L?csig=AAAAAAAAAAAAAAAAAAAAAB33Bn75pgHFra1AIz_v07xKqc9I3zJzEQIEy0jUKdI_&exp=1761649389&osig=AAAAAAAAAAAAAAAAAAAAACb49s6joAmeOMGuPl004iy-5aowkKOpLv31CgIDIU8a&seoslug=black-red-minimalist-fashion-product-introduction-landscape-banner&signer=marketplace-rpc",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 35400,
+      "width": 800,
+      "height": 800,
+      "total_pixels": 640000,
+      "basic_score": 0.8819321502201755,
+      "file_name": "luxury_fashion_hero_banner_womens_suit.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image perfectly aligns with the search query and prompt. It functions as a hero banner for a fashion brand, featuring women's short suits, which fits 'luxury fashion marketplace'. The design is distinctly minimal and elegant, utilizing a sophisticated color palette and clean layout. Text is clear and legible, and there are no watermarks. The overall composition and aesthetic quality are high.",
+      "file_name": "luxury_fashion_hero_banner_womens_suit.jpg",
+      "caption": "A sleek and elegant hero banner for 'Borcelle Fashion', showcasing 'Women's Short Suit'. The banner features a dark charcoal grey background with three red, rounded rectangular cutouts displaying models wearing stylish light-colored patterned short suits. The left side includes branding, product description, and a call to action 'ORDER NOW!'. The bottom strip provides store information like website and address. The design is clean, minimal, and sophisticated.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A hero banner image for a luxury fashion marketplace with elegant minimal design",
+    "image_info": {
+      "url": "https://www.sliderrevolution.com/wp-content/uploads/2023/06/fashion-website-templates.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 51490,
+      "width": 1180,
+      "height": 664,
+      "total_pixels": 783520,
+      "basic_score": 0.9107303831176148,
+      "file_name": "luxury_fashion_marketplace_hero_banner_minimal_elegant_new_collection.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 100.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image is an excellent match for the search query and prompt. It's a clear, high-resolution hero banner with an elegant and minimal design, suitable for a luxury fashion marketplace. The composition is professional, the text is legible, and there are no watermarks.",
+      "file_name": "luxury_fashion_marketplace_hero_banner_minimal_elegant_new_collection.jpg",
+      "caption": "An elegant and minimal hero banner for a luxury fashion marketplace, featuring two women models in stylish black dresses against a clean, light gray background. The banner advertises a 'New Collection' available from '30 NOV - 03 DEC' with '50% Off / Selected items' and includes a prominent 'SHOP NOW' call to action button. The design utilizes sophisticated typography and a balanced layout.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A hero banner image for a luxury fashion marketplace with elegant minimal design",
+    "image_info": {
+      "url": "https://img.freepik.com/free-vector/gradient-golden-luxury-sale-banners-with-photo_23-2149031873.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 60265,
+      "width": 626,
+      "height": 626,
+      "total_pixels": 391876,
+      "basic_score": 0.8208668904836028,
+      "file_name": "luxury_fashion_marketplace_hero_banner_template_elegant_minimal.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 93.0,
+      "explanation": "The image is highly relevant as it directly showcases two hero banner templates designed for a luxury fashion marketplace, aligning perfectly with the 'minimal elegant' aesthetic. Clarity is excellent with sharp details and readable text. There are no watermarks. Overall quality is very high, with professional design, composition, and coloring, making it an ideal visual for the specified purpose.",
+      "file_name": "luxury_fashion_marketplace_hero_banner_template_elegant_minimal.jpg",
+      "caption": "Two elegant hero banner templates for a luxury fashion marketplace. The top banner features a female model in a white shirt looking out a window, set against a background of geometric blush pink and gold patterns with the text 'LUXURY GOLDEN ELEMENTAL BANNER'. The bottom banner shows the same model, seated, on a plain background, with a similar abstract design and the text 'GOLDEN LUXURY BANNER SAMPLE'. Both designs convey a sophisticated, minimal, and high-end aesthetic, ideal for luxury branding.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
