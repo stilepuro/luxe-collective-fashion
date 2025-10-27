@@ -1,0 +1,14 @@
+{
+  "backup_file": "LUXE_COLLECTIVE_BACKUP_20251027_234051.zip",
+  "creation_date": "2025-10-27T23:40:52.589988",
+  "original_site": "https://stilepuro.github.io/luxe-collective-fashion/",
+  "size_mb": 8.4,
+  "backup_location": "Workspace MiniMax",
+  "status": "COMPLETE",
+  "recovery_steps": [
+    "1. Scarica il file ZIP dal workspace",
+    "2. Estrai tutti i file",
+    "3. Carica su nuovo hosting (GitHub Pages, Netlify, etc.)",
+    "4. Il sito sar\u00e0 operativo immediatamente"
+  ]
+}
