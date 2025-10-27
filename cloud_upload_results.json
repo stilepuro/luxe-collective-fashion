@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-27 23:37:04",
+  "backup_file": "luxe-collective-backup-cloud-20251027_233332.zip",
+  "results": {
+    "tmpfiles.org": {
+      "success": true,
+      "link": "{\"status\":\"success\",\"data\":{\"url\":\"http://tmpfiles.org/5434528/luxe-collective-backup-cloud-20251027_233332.zip\"}}"
+    },
+    "file.io": {
+      "success": true,
+      "link": ""
+    },
+    "0x0.st": {
+      "success": true,
+      "link": "User agent not allowed."
+    },
+    "transfer.sh": {
+      "success": false,
+      "link": "  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\ncurl: (7) Failed to connect to transfer.sh port 443 after 139 ms: Couldn't connect to server\n"
+    }
+  },
+  "successful_uploads": 3,
+  "total_services": 4
+}
