@@ -142,6 +142,24 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
+    // Fashion card interactions
+    const fashionCards = document.querySelectorAll('.fashion-card');
+    fashionCards.forEach(card => {
+        card.addEventListener('click', function() {
+            const fashionTitle = card.querySelector('.fashion-title').textContent;
+            handleFashionClick(fashionTitle);
+        });
+    });
+    
+    // Shop item interactions
+    const shopItems = document.querySelectorAll('.shop-item');
+    shopItems.forEach(item => {
+        item.addEventListener('click', function() {
+            const itemTitle = item.querySelector('h4').textContent;
+            handleShopClick(itemTitle);
+        });
+    });
+    
     // Button ripple effect
     const buttons = document.querySelectorAll('.btn, .btn-link');
     buttons.forEach(button => {
@@ -167,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Animation on scroll
-    const animatedElements = document.querySelectorAll('.product-card, .category-card, .editorial-card');
+    const animatedElements = document.querySelectorAll('.product-card, .category-card, .editorial-card, .fashion-card, .shop-item');
     const elementObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
             if (entry.isIntersecting) {
@@ -219,6 +237,16 @@ function handleCategoryClick(categoryName) {
 function handleArticleClick(articleTitle) {
     console.log(`Reading article: ${articleTitle}`);
     showNotification(`Opening: ${articleTitle}`, 'success');
+}
+
+function handleFashionClick(fashionTitle) {
+    console.log(`Reading fashion story: ${fashionTitle}`);
+    showNotification(`Discovering: ${fashionTitle}`, 'success');
+}
+
+function handleShopClick(itemTitle) {
+    console.log(`Shopping item: ${itemTitle}`);
+    showNotification(`Added ${itemTitle} to wishlist!`, 'success');
 }
 
 function subscribeNewsletter(email) {
